@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Scrum Pitfalls"
-date:   2018-02-25 12:49:03
+date:   2024-02-25 12:49:03
 categories: agile
-published: false
+published: true
 ---
 There is no doubt using Agile, and specifically the Scrum framework, for software development has proven benefits above other ways of working such as Waterfall. Working as a IT consultant and software developer there are still pitfalls I come across that could be easily mitigated. Above all, Agile is not just a framework or process; it is a mindset that requires cultural changes when making the change from more traditional, waterfall-like, development to Agile/Scrum.
 
